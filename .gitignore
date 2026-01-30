@@ -9,3 +9,4 @@
 services/old-*
 
 services/2016-roblox
+.env
